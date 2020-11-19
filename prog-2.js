@@ -1,4 +1,4 @@
-// conditional statements 
+// conditional statement 
 
 // exercise-5
 
