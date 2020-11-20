@@ -29,7 +29,7 @@ if (city=="rajkot") {
     console.log("your score is "+score);
 }
 
-exercise 6.1 (practice)
+// exercise 6.1 (practice)
 points=10;
 var q = id.question("\nwhat is the defination of set?\n");
 console.log("Answer:"+q);
