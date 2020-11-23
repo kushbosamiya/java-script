@@ -33,7 +33,7 @@ function services(question,resolution)
             var r= readlinesync.question(chalk.greenBright.italic("just please rate out of 10 points\n"));
             for(x=1;x<=10;x++)
             {
-                console.log(x);
+                console.log(x); // so the rating system is not working .
             }
             
         } else {
