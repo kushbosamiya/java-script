@@ -82,5 +82,5 @@ else
 {
     console.log(chalk.white.bold(("Thank you...")));
 }
-// console.log("Thank you....");
+
 
