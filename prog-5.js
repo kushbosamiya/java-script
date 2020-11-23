@@ -14,7 +14,7 @@ console.log(arrlength);
 var arrlength = arr.length - 1; //cross verify the char through index no.
 console.log(arrlength);
 
-acccesing array through for loop and .length func.
+// acccesing array through for loop and .length func.
 for(i=0;i<arr.length;i++)
 {
     console.log(arr[i]);
