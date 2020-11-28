@@ -211,7 +211,7 @@ score=0;
     }
  
     else {
-        console.log(chalk.red('\nOops ! unfortunately you had given wrong answer\nRight answer is '+a[4]));
+        console.log(chalk.red('\nOops ! unfortunately you had given wrong answer\nRight answer is '+a[0]));
         score=score-25+25;
         console.log(chalk.blueBright('score='+score));
         console.log(chalk.redBright('\nDue to this your journey will stop here ,Better Luck Next Time!'));
